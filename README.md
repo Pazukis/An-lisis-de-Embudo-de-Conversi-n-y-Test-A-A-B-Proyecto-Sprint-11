@@ -1,5 +1,10 @@
 # Análisis de Embudo de Conversión y Test A/A/B – Proyecto Sprint 11
 
+## Cómo usarlo
+1. Clona este repositorio
+2. Abre el archivo .ipynb en Jupyter Notebook
+3. Ejecuta las celdas para ver el análisis completo
+
 ## Descripción del Proyecto
 
 Este proyecto fue desarrollado como parte del Sprint 11 del bootcamp de análisis de datos de TripleTen. El objetivo es analizar el comportamiento de los usuarios dentro de una aplicación de venta de productos alimenticios, estudiar el embudo de conversión y evaluar los resultados de un experimento A/A/B para determinar el impacto de un cambio en el diseño de fuentes.
